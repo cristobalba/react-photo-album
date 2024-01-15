@@ -105,5 +105,8 @@
     "react image gallery",
     "react-photo-album",
     "react-photo-gallery"
-  ]
+  ],
+  "dependencies": {
+    "react-photo-album": "^2.3.0"
+  }
 }
